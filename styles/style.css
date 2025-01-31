@@ -488,4 +488,23 @@ color: rgb(14, 14, 14);
     font-weight:400 ;
     color:rgba(14, 14, 14, 0.7) ;
 }
+.foott-gap{
+    margin-top: 32px;
+}
+.final{
+    padding: 50px 160px 50px 160px;
+    background-color: rgb(255, 255, 255);
+}
+.bd{
+ font-size: 32px;
+ font-weight: 700;
+ text-align: center;
+
+}
+.logo{ 
+   display: flex;
+   justify-content: center; 
+    
+    
+}
 
